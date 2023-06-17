@@ -24,5 +24,5 @@ npx http-server
 
 Browse catalog.json
 ```
-http://localhost:8080/ServerData/StandaloneWindows64/catalog_0.1.0.json
+http://localhost:8080/ServerData.LocalServer/StandaloneWindows64/catalog_0.1.0.json
 ```

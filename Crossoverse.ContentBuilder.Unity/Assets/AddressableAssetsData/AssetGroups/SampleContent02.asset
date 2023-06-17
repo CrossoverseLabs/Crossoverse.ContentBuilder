@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: a9f7a5d9250c8e246888bb4676358d19
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: b137c049b008c6d48b7243c05ad56321
+    m_Address: Assets/AddressableContents/SampleContent02/Skybox_Night.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4446420a57813c04f8984394891999ac, type: 2}
   m_SchemaSet:
